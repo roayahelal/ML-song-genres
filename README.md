@@ -4,7 +4,7 @@ This is a Random Forest Machine Learning model, trained using 15 audio analysis 
 
 Tech used: Python (Pandas,Numpy, Sklearn, Matplotlib, Pickle, Flask), HTML, CSS, Bootstrap
 
-#Background
+## Background
 
 Spotify's API has genres that are tied to artists but not individual songs.
 
