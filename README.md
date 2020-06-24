@@ -11,10 +11,4 @@ This is a Random Forest Machine Learning model, trained using 15 audio analysis 
 
 Tech used: Python (Pandas,Numpy, Sklearn, Matplotlib, Pickle, Flask), HTML, CSS, Bootstrap
 
-## Data collection
-
-## Data preperation
-
-## Model training and deployment 
-
-## Observations
+![alt text](https://github.com/roayahelal/ML-song-genres/blob/master/images/UI.png)
