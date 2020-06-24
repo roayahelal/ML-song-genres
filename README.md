@@ -4,6 +4,8 @@ This is a Random Forest Machine Learning model, trained using 15 audio analysis 
 
 Tech used: Python (Pandas,Numpy, Sklearn, Matplotlib, Pickle, Flask), HTML, CSS, Bootstrap
 
+![alt text](https://github.com/roayahelal/ML-song-genres/blob/master/images/UI.png)
+
 ## Background
 
 Spotify's API has genres that are tied to artists but not individual songs.
@@ -13,4 +15,4 @@ In today's music, we are seeing that artists tend to not stick to one genre when
 It can be diffucult to like a single song from an artist's catelog and try to find similar songs musically and not neccesarly similar based on the artist's genre.The purpose of creating this proect was to create a model that would be abel to predict a song's genre based on nothing but audio-analysis features. By doing so, we would be removing all other aspects that can influnce and add a bias to labeling a song's genre and when identifying a single song's genre users would be abel to know genres of individual songs that they like
 
 
-![alt text](https://github.com/roayahelal/ML-song-genres/blob/master/images/UI.png)
+
